@@ -8,7 +8,5 @@
     "env":{
         "VERCEL": "true"
     },
-    {
       "regions": ["hkg1"]
-    }
 }
