@@ -1,6 +1,6 @@
 {
     "functions": {
-        "api/ra.ts": {
+        "tts-one/api/ra.ts": {
           "maxDuration": 5 
     },
     "routes": [
