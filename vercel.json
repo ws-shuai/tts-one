@@ -1,4 +1,10 @@
 {
+    {
+    "functions": {
+        "api/ra.ts": {
+          "maxDuration": 5 
+        }
+  },
     "routes": [
         {
             "src": "/",
