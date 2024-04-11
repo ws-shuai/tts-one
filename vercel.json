@@ -1,6 +1,6 @@
 {
     "functions": {
-        "ai/**/*": {
+        "api/**/*": {
           "maxDuration": 5 
         }
     },
